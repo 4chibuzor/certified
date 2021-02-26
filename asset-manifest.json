@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/certified/static/css/main.3dec4b41.chunk.css",
+    "main.js": "/certified/static/js/main.4faaced6.chunk.js",
+    "main.js.map": "/certified/static/js/main.4faaced6.chunk.js.map",
+    "runtime-main.js": "/certified/static/js/runtime-main.c5b29bc6.js",
+    "runtime-main.js.map": "/certified/static/js/runtime-main.c5b29bc6.js.map",
+    "static/js/2.108b643b.chunk.js": "/certified/static/js/2.108b643b.chunk.js",
+    "static/js/2.108b643b.chunk.js.map": "/certified/static/js/2.108b643b.chunk.js.map",
+    "static/js/3.a8ca355b.chunk.js": "/certified/static/js/3.a8ca355b.chunk.js",
+    "static/js/3.a8ca355b.chunk.js.map": "/certified/static/js/3.a8ca355b.chunk.js.map",
+    "index.html": "/certified/index.html",
+    "static/css/main.3dec4b41.chunk.css.map": "/certified/static/css/main.3dec4b41.chunk.css.map",
+    "static/js/2.108b643b.chunk.js.LICENSE.txt": "/certified/static/js/2.108b643b.chunk.js.LICENSE.txt",
+    "static/media/inspiration.bbf47c42.png": "/certified/static/media/inspiration.bbf47c42.png",
+    "static/media/logo-politechnika-koszalinska.29abb946.png": "/certified/static/media/logo-politechnika-koszalinska.29abb946.png",
+    "static/media/logo-sum.624dd984.png": "/certified/static/media/logo-sum.624dd984.png",
+    "static/media/logo-uam.a13cf650.jpg": "/certified/static/media/logo-uam.a13cf650.jpg",
+    "static/media/logo-up-lublin.37508bf9.png": "/certified/static/media/logo-up-lublin.37508bf9.png",
+    "static/media/logo-zus.f0bee598.png": "/certified/static/media/logo-zus.f0bee598.png",
+    "static/media/logo.8a9bd9ac.png": "/certified/static/media/logo.8a9bd9ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b29bc6.js",
+    "static/js/2.108b643b.chunk.js",
+    "static/css/main.3dec4b41.chunk.css",
+    "static/js/main.4faaced6.chunk.js"
+  ]
+}
